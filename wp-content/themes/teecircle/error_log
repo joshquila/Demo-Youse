@@ -1,0 +1,24 @@
+[06-Aug-2014 09:34:13 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/youse1/public_html/demo/wp-content/themes/teecircle/ajaximage.php on line 21
+[07-Aug-2014 09:38:55 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/youse1/public_html/demo/wp-content/themes/teecircle/ajaximage.php on line 21
+[07-Aug-2014 09:39:17 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/youse1/public_html/demo/wp-content/themes/teecircle/ajaximage.php on line 21
+[07-Aug-2014 09:39:28 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/youse1/public_html/demo/wp-content/themes/teecircle/ajaximage.php on line 21
+[07-Aug-2014 09:55:36 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/youse1/public_html/demo/wp-content/themes/teecircle/ajaximage.php on line 21
+[18-Aug-2014 07:35:55 America/Chicago] PHP Warning:  getimagesize(http://demo.youse.us/wp-content/themes/teecircle/clip_arts/Round designs/Alerts-06.png): failed to open stream: HTTP request failed! HTTP/1.1 401 Authorization Required
+ in /home/youse1/public_html/demo/wp-content/themes/teecircle/colorsofimage.class.php on line 204
+[18-Aug-2014 07:35:56 America/Chicago] PHP Warning:  imagecreatefrompng(http://demo.youse.us/wp-content/themes/teecircle/clip_arts/Round designs/Alerts-06.png): failed to open stream: HTTP request failed! HTTP/1.1 401 Authorization Required
+ in /home/youse1/public_html/demo/wp-content/themes/teecircle/colorsofimage.class.php on line 73
+[18-Aug-2014 07:35:56 America/Chicago] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/youse1/public_html/demo/wp-content/themes/teecircle/colorsofimage.class.php on line 92
+[18-Aug-2014 07:35:56 America/Chicago] PHP Warning:  imagecolorat() expects parameter 1 to be resource, boolean given in /home/youse1/public_html/demo/wp-content/themes/teecircle/colorsofimage.class.php on line 100
+[18-Aug-2014 07:35:56 America/Chicago] PHP Warning:  imagecolorsforindex() expects parameter 1 to be resource, boolean given in /home/youse1/public_html/demo/wp-content/themes/teecircle/colorsofimage.class.php on line 100
+[18-Aug-2014 07:35:56 America/Chicago] PHP Warning:  imagecolorat() expects parameter 1 to be resource, boolean given in /home/youse1/public_html/demo/wp-content/themes/teecircle/colorsofimage.class.php on line 103
+[18-Aug-2014 07:35:56 America/Chicago] PHP Warning:  imagecolorsforindex() expects parameter 1 to be resource, boolean given in /home/youse1/public_html/demo/wp-content/themes/teecircle/colorsofimage.class.php on line 103
+[18-Aug-2014 07:35:56 America/Chicago] PHP Warning:  imagecolorat() expects parameter 1 to be resource, boolean given in /home/youse1/public_html/demo/wp-content/themes/teecircle/colorsofimage.class.php on line 106
+[18-Aug-2014 07:35:56 America/Chicago] PHP Warning:  imagecolorsforindex() expects parameter 1 to be resource, boolean given in /home/youse1/public_html/demo/wp-content/themes/teecircle/colorsofimage.class.php on line 106
+[18-Aug-2014 07:35:56 America/Chicago] PHP Warning:  imagecolorat() expects parameter 1 to be resource, boolean given in /home/youse1/public_html/demo/wp-content/themes/teecircle/colorsofimage.class.php on line 109
+[18-Aug-2014 07:35:56 America/Chicago] PHP Warning:  imagecolorsforindex() expects parameter 1 to be resource, boolean given in /home/youse1/public_html/demo/wp-content/themes/teecircle/colorsofimage.class.php on line 109
+[18-Aug-2014 07:35:56 America/Chicago] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/youse1/public_html/demo/wp-content/themes/teecircle/getimagecolor.php on line 54
+[18-Aug-2014 07:35:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/youse1/public_html/demo/wp-content/themes/teecircle/getimagecolor.php on line 55
+[18-Aug-2014 07:35:56 America/Chicago] PHP Warning:  array_merge(): Argument #2 is not an array in /home/youse1/public_html/demo/wp-content/themes/teecircle/getimagecolor.php on line 71
+[18-Aug-2014 07:35:56 America/Chicago] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/youse1/public_html/demo/wp-content/themes/teecircle/getimagecolor.php on line 122
+[18-Aug-2014 07:35:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/youse1/public_html/demo/wp-content/themes/teecircle/getimagecolor.php on line 125
+[18-Aug-2014 12:37:38 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/youse1/public_html/demo/wp-content/themes/teecircle/printareapix.php on line 59

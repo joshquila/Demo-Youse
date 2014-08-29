@@ -1,0 +1,17 @@
+#BEGIN create a mirror of wp-admin folder
+RewriteEngine on
+RewriteBase /
+# Creating a mirror URL of wp-admin folder
+RewriteRule ^teewp-admincircle/(.*) wp-admin/$1?%{QUERY_STRING} [L]
+#END create a mirror of wp-admin folder
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
